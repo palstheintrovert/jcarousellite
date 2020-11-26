@@ -1,5 +1,6 @@
 ## jCarouselLite - Original Version
 ![CodeQL](https://github.com/palstheintrovert/jcarousellite/workflows/CodeQL/badge.svg)
+<p>
 This is the original version of [jCarouselLite](http://www.gmarwaha.com/jquery/jcarousellite/).
 Current stable version is 1.1.
 For detailed documentation visit the [Project Page](http://www.gmarwaha.com/jquery/jcarousellite/)
@@ -10,3 +11,4 @@ For detailed documentation visit the [Project Page](http://www.gmarwaha.com/jque
 * [Demos](http://www.gmarwaha.com/jquery/jcarousellite/demo.php)
 * [Documentation](http://www.gmarwaha.com/jquery/jcarousellite/documentation.php)
 * [Change Log](http://www.gmarwaha.com/jquery/jcarousellite/change-log.php)
+</p>
