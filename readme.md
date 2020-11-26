@@ -1,5 +1,5 @@
 ## jCarouselLite - Original Version
-
+![CodeQL](https://github.com/palstheintrovert/jcarousellite/workflows/CodeQL/badge.svg)
 This is the original version of [jCarouselLite](http://www.gmarwaha.com/jquery/jcarousellite/).
 Current stable version is 1.1.
 For detailed documentation visit the [Project Page](http://www.gmarwaha.com/jquery/jcarousellite/)
